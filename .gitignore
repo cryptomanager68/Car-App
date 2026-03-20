@@ -1,0 +1,8 @@
+node_modules/
+dist/
+release/
+server/node_modules/
+*.log
+.env
+node-slim.exe
+download.png
